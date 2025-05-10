@@ -25,6 +25,7 @@ SAS Certified Specialist: Visual Business Analytics Using SAS Viya
 Fundamentals of Deep Learning (NVIDIA)
 
 Experience :-
+
 Volunteer Educator with Rural Education Initiative (2021-2023)
 Taught Mathematics, Science, and Language to underprivileged children in remote areas. Mentored students and collaborated with NGOs and local authorities.
 
